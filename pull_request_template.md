@@ -2,7 +2,7 @@
 
 ## 🔍 Descripción del cambio
 
-Describe brevemente qué hace este PR y por qué es necesario.
+Describe brevemente qué hace este PR y los cambios.
 
 ---
 
@@ -21,7 +21,7 @@ Marca lo que aplique:
 
 ## 📝 Motivación del cambio
 
-Describe el problema o necesidad que se está abordando.
+Describe el motivo o detonante de dichos cambios.
 
 ---
 
